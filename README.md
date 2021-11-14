@@ -1,6 +1,15 @@
 # vpnStatus
 Check if the VPN is ON/OFF.
 
+![VPN ON/OFF](https://1.bp.blogspot.com/-9ATBtRMcD-U/YUHs8lVPKEI/AAAAAAAAACM/hJYj8GEo-zwkKbDJHO7k5HVL3sJf-FzXACLcBGAsYHQ/w200-h29/vpn_status.gif)
+
+This script has been made for use in xfce4-genmon-plugin.
+
+In order to use the icon, [Hack Nerd Font](https://github.com/ryanoasis/nerd-fonts/releases/download/v2.1.0/Hack.zip) must be installed.
+
+## How to use?
+To do this, we have to add the element to our panel, and configure it, indicating the path of the script and the refresh time.
+
 ## Author
 [Bi$](https://github.com/BiS-9)
 
