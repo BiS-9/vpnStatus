@@ -26,4 +26,4 @@ ONOFF=$([[ $IFACE == "tun0" ]] && echo "<span foreground='$FL'> 廬 </span><span
 
 # Genmon
 echo "<txt><b>$ONOFF</b></txt>"
-echo "<tool>VPN = $IFACE</tool>"
+echo "<tool>VPN</tool>"
