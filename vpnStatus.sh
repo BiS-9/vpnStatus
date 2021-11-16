@@ -21,7 +21,7 @@ FL="lime" # Foreground colour if active
 FR="red" # Foreground colour if inactive
 
 # Main program
-IFACE=($(/usr/sbin/ifconfig | grep tun0 | awk '{print $1}' | tr -d ':'))
+IFACE=$(/usr/sbin/ifconfig | grep tun0 | awk '{print $1}' | tr -d ':')
 ONOFF=$([[ $IFACE == "tun0" ]] && echo "<span foreground='$FL'> 廬 </span><span>$(/usr/sbin/ifconfig tun0 | grep "inet " | awk '{print $2}')</span>" || echo "<span foreground='$FR'> 廬 </span><span>Disconected</span>")
 
 # Genmon
