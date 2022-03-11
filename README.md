@@ -1,5 +1,5 @@
 # vpnStatus
-Check if the VPN is status.
+Check the VPN status.
 
 ![VPN ON/OFF](https://github.com/BiS-9/vpnStatus/blob/main/vpn.gif)
 
