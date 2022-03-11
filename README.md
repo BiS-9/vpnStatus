@@ -1,7 +1,7 @@
 # vpnStatus
-Check if the VPN is ON/OFF.
+Check if the VPN is status.
 
-![VPN ON/OFF](https://1.bp.blogspot.com/-9ATBtRMcD-U/YUHs8lVPKEI/AAAAAAAAACM/hJYj8GEo-zwkKbDJHO7k5HVL3sJf-FzXACLcBGAsYHQ/w200-h29/vpn_status.gif)
+![VPN ON/OFF](https://github.com/BiS-9/vpnStatus/blob/main/vpn.gif)
 
 This script has been made for use in xfce4-genmon-plugin.
 
